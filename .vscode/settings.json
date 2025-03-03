@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "output2": "code-text-binary",
+        "stm32f0xx.h": "c",
+        "math.h": "c"
+    }
+}
